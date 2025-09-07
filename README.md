@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **gauravprajapati111@outlook.com**
 
+<img align="right" width=450 margin="10px" rx="5" src ="https://img.freepik.com/free-vector/development-operations-continuous-process-software-production-administration_107791-5022.jpg?w=996&t=st=1708667857~exp=1708668457~hmac=8ba7a3e8363cac68a4b96fa356b302b49d34b66bb26d61dad70a68abc9889041" />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/prajapati-gaurav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prajapati-gaurav" height="30" width="40" /></a>
