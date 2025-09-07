@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaurav-prajapati1" alt="gaurav-prajapati1" /></a> </p>
 
-<img align="right" width=450 margin="10px" rx="5" src ="./image1.png" />
+<img align="right" width=450 margin="10px" rx="5" src ="./image.png" />
 
 - 🌱 I’m currently learning **C++ , C**
 
