@@ -5,13 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaurav-prajapati1" alt="gaurav-prajapati1" /></a> </p>
 
+<img align="right" width=450 margin="10px" rx="5" src ="https://img.freepik.com/free-vector/development-operations-continuous-process-software-production-administration_107791-5022.jpg?w=996&t=st=1708667857~exp=1708668457~hmac=8ba7a3e8363cac68a4b96fa356b302b49d34b66bb26d61dad70a68abc9889041" />
+
 - 🌱 I’m currently learning **C++ , C**
 
 - 💬 Ask me about **C++ , C**
 
 - 📫 How to reach me **gauravprajapati111@outlook.com**
 
-<img align="right" width=450 margin="10px" rx="5" src ="https://img.freepik.com/free-vector/development-operations-continuous-process-software-production-administration_107791-5022.jpg?w=996&t=st=1708667857~exp=1708668457~hmac=8ba7a3e8363cac68a4b96fa356b302b49d34b66bb26d61dad70a68abc9889041" />
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
